@@ -1,0 +1,13 @@
+.mudarcor {
+    color:rgb(0, 4, 255);
+}
+
+body > header{
+    background-color: #000000;
+    padding: 16px 0;
+    color: #f5f6fa;
+}
+
+.cor2 {
+    color: rgb(228, 26, 127);
+}
